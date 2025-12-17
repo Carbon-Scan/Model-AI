@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+paddleocr
+paddlepaddle
+sentence-transformers
+torch
+opencv-python
+numpy
+pandas
+python-multipart

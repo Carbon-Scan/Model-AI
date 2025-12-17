@@ -1,0 +1,251 @@
+Produk,Karbon_kg_per_kg,Kategori
+Beras Putih,4,biji_bijian
+Beras Merah,3.8,biji_bijian
+Gandum,1.5,biji_bijian
+Jagung,1.2,biji_bijian
+Kedelai,2,kacang
+Kacang Tanah,1.1,kacang
+Kacang Hijau,0.8,kacang
+Kacang Merah,1.6,kacang
+Kacang Kedelai Hitam,2.2,kacang
+Telur Ayam,4.5,protein_hewani
+Telur Bebek,5.1,protein_hewani
+Daging Sapi,27,protein_hewani
+Daging Kambing,24,protein_hewani
+Daging Ayam,6.9,protein_hewani
+Daging Babi,12.1,protein_hewani
+Ikan Salmon,11.9,protein_hewani
+Ikan Tuna,6.1,protein_hewani
+Ikan Lele,3.5,protein_hewani
+Ikan Nila,3.4,protein_hewani
+Ikan Teri,1.8,protein_hewani
+Susu Sapi,3.2,susu
+Susu Kambing,2.4,susu
+Susu Kedelai,0.9,susu
+Susu Almond,0.7,susu
+Santan Kelapa,2.1,santan
+Minyak Sawit,7.3,minyak
+Minyak Kelapa,6,minyak
+Minyak Jagung,3.7,minyak
+Minyak Zaitun,4.9,minyak
+Minyak Wijen,4.6,minyak
+Gula Pasir,3,gula
+Gula Merah,2.8,gula
+Gula Aren,2.5,gula
+Garam,0.2,garam
+Mentega,12.1,lemak
+Margarin,3.2,lemak
+Keju,13.5,lemak
+Yogurt,3.2,lemak
+Tahu,1.5,olahan
+Tempe,1.2,olahan
+Tepung Terigu,1.4,tepung
+Tepung Beras,1.3,tepung
+Tepung Jagung,1.1,tepung
+Tepung Tapioka,1.6,tepung
+Tepung Sagu,1,tepung
+Bawang Merah,0.4,bumbu
+Bawang Putih,0.45,bumbu
+Cabai Merah,0.5,bumbu
+Cabai Rawit,0.48,bumbu
+Jahe,0.6,bumbu
+Kunyit,0.55,bumbu
+Lengkuas,0.42,bumbu
+Kencur,0.58,bumbu
+Sereh,0.35,bumbu
+Daun Salam,0.3,bumbu
+Daun Jeruk,0.32,bumbu
+Kemiri,1.1,bumbu
+Ketumbar,1.3,bumbu
+Jintan,1.9,bumbu
+Pala,1.4,bumbu
+Kayu Manis,1.25,bumbu
+Cengkeh,1.35,bumbu
+Merica,4.6,bumbu
+Asam Jawa,0.85,bumbu
+Kecap Manis,1.7,saus
+Kecap Asin,1.5,saus
+Saus Tomat,1.2,saus
+Saus Tiram,2.1,saus
+Kaldu Ayam,3.8,kaldu
+Kaldu Sapi,5.2,kaldu
+Kaldu Jamur,1.95,kaldu
+Sayur Bayam,0.35,sayur
+Sayur Kangkung,0.3,sayur
+Sayur Sawi,0.32,sayur
+Sayur Pakcoy,0.34,sayur
+Sayur Brokoli,0.9,sayur
+Sayur Kembang Kol,0.85,sayur
+Wortel,0.42,sayur
+Kentang,0.45,sayur
+Tomat,0.4,sayur
+Timun,0.25,sayur
+Labu,0.48,sayur
+Terong,0.38,sayur
+Jamur Tiram,1.4,sayur
+Jamur Merang,1.6,sayur
+Buah Pisang,0.6,buah
+Buah Apel,0.35,buah
+Buah Jeruk,0.3,buah
+Buah Mangga,0.5,buah
+Buah Alpukat,0.85,buah
+Buah Pepaya,0.32,buah
+Buah Semangka,0.28,buah
+Buah Melon,0.3,buah
+Buah Anggur,0.75,buah
+Buah Stroberi,0.8,buah
+Buah Nanas,0.42,buah
+Buah Durian,1.1,buah
+Buah Rambutan,0.49,buah
+Buah Salak,0.38,buah
+Buah Jambu Biji,0.45,buah
+Ubi Jalar,0.25,umbi
+Ubi Kayu,0.3,umbi
+Talas,0.28,umbi
+Kentang Manis,0.35,umbi
+Sukun,0.4,umbi
+Bawang Bombay,0.38,bumbu
+Bawang Daun,0.28,bumbu
+Daun Bawang,0.3,bumbu
+Seledri,0.32,bumbu
+Peterseli,0.35,bumbu
+Basil,0.4,bumbu
+Rosemary,0.42,bumbu
+Thyme,0.38,bumbu
+Oregano,0.45,bumbu
+Kapulaga,1.8,bumbu
+Bunga Lawang,1.4,bumbu
+Vanili,2.5,bumbu
+Saffron,3.2,bumbu
+Cuka,0.5,bumbu
+Kacang Mete,12.5,kacang
+Kacang Almond,3.7,kacang
+Kacang Kenari,3.8,kacang
+Kacang Walnut,3.9,kacang
+Kacang Pistachio,4.1,kacang
+Kacang Macadamia,4.3,kacang
+Biji Wijen,2.8,biji
+Biji Bunga Matahari,1.9,biji
+Biji Chia,1.6,biji
+Biji Flax,1.45,biji
+Biji Labu,1.35,biji
+Ikan Bandeng,3.3,protein_hewani
+Ikan Gurame,3.6,protein_hewani
+Ikan Mas,3.4,protein_hewani
+Ikan Patin,3.3,protein_hewani
+Ikan Mujair,3.5,protein_hewani
+Ikan Tongkol,5.8,protein_hewani
+Ikan Tenggiri,6.2,protein_hewani
+Ikan Kembung,4.9,protein_hewani
+Cumi-cumi,3.8,protein_hewani
+Gurita,4.1,protein_hewani
+Kepiting,5.6,protein_hewani
+Lobster,12,protein_hewani
+Kerang,2.9,protein_hewani
+Tiram,1.8,protein_hewani
+Rumput Laut,0.15,protein_nabati
+Tahu Sutra,1.7,olahan
+Tempe Gembus,1.1,olahan
+Oncom,1.3,olahan
+Buah Naga,0.62,buah
+Buah Markisa,0.65,buah
+Quinoa,2.5,biji_bijian
+Amaranth,1.8,biji_bijian
+Millet,1.3,biji_bijian
+Buckwheat,1.45,biji_bijian
+Barley,1.55,biji_bijian
+Rye,1.6,biji_bijian
+Oats,1.35,biji_bijian
+Spelt,1.7,biji_bijian
+Teff,1.25,biji_bijian
+Freekeh,1.65,biji_bijian
+Daging Rusa,18,protein_hewani
+Daging Kelinci,4.4,protein_hewani
+Daging Bison,12.5,protein_hewani
+Daging Kuda,15,protein_hewani
+Daging Unta,16.5,protein_hewani
+Daging Burung Puyuh,5.3,protein_hewani
+Daging Angsa,8.9,protein_hewani
+Daging Bebek,6.8,protein_hewani
+Daging Kalkun,6.5,protein_hewani
+Daging Burung Dara,5.8,protein_hewani
+Keju Mozzarella,11.5,lemak
+Keju Cheddar,13.2,lemak
+Keju Parmesan,14.8,lemak
+Keju Feta,10.5,lemak
+Keju Ricotta,9.8,lemak
+Keju Cottage,8.9,lemak
+Keju Gouda,12.3,lemak
+Keju Edam,11.8,lemak
+Keju Brie,13.5,lemak
+Keju Camembert,12.9,lemak
+Minyak Kanola,3.55,minyak
+Minyak Bunga Matahari,3.6,minyak
+Minyak Kacang Tanah,3.8,minyak
+Minyak Safflower,3.4,minyak
+Minyak Grapeseed,3.9,minyak
+Minyak Avocado,4.2,minyak
+Minyak Rice Bran,3.3,minyak
+Minyak Mustard,3.7,minyak
+Minyak Palm Kernel,6.5,minyak
+Minyak Soybean,4.1,minyak
+Buah Kiwi,0.75,buah
+Buah Persik,0.68,buah
+Buah Plum,0.72,buah
+Buah Apricot,0.65,buah
+Buah Ceri,0.85,buah
+Buah Blueberry,0.78,buah
+Buah Raspberry,0.82,buah
+Buah Blackberry,0.8,buah
+Buah Cranberry,0.7,buah
+Buah Pomegranate,0.88,buah
+Buah Fig,0.92,buah
+Buah Dates,1.2,buah
+Buah Prune,1.1,buah
+Buah Lychee,0.76,buah
+Buah Longan,0.74,buah
+Buah Mangosteen,0.55,buah
+Buah Jackfruit,0.7,buah
+Buah Breadfruit,0.58,buah
+Buah Carambola,0.62,buah
+Buah Guava,0.48,buah
+Asparagus,0.85,sayur
+Artichoke,0.92,sayur
+Zucchini,0.38,sayur
+Eggplant,0.4,sayur
+Brussels Sprouts,0.95,sayur
+Kale,0.6,sayur
+Spinach,0.35,sayur
+Arugula,0.42,sayur
+Endive,0.38,sayur
+Radicchio,0.45,sayur
+Beetroot,0.48,sayur
+Radish,0.32,sayur
+Turnip,0.35,sayur
+Rutabaga,0.4,sayur
+Parsnip,0.42,sayur
+Fennel,0.38,sayur
+Celery Root,0.45,sayur
+Okra,0.5,sayur
+Snow Peas,0.55,sayur
+Sugar Snap Peas,0.58,sayur
+Jicama,0.3,sayur
+Kohlrabi,0.35,sayur
+Bok Choy,0.32,sayur
+Collard Greens,0.4,sayur
+Mustard Greens,0.38,sayur
+Swiss Chard,0.42,sayur
+Watercress,0.28,sayur
+Daikon,0.3,sayur
+Bitter Melon,0.35,sayur
+Bottle Gourd,0.32,sayur
+Ridge Gourd,0.34,sayur
+Ivy Gourd,0.36,sayur
+Drumstick,0.4,sayur
+Taro Leaves,0.38,sayur
+Malabar Spinach,0.35,sayur
+Chinese Broccoli,0.45,sayur
+Yardlong Beans,0.48,sayur
+Winged Beans,0.42,sayur
+Lotus Root,0.5,sayur
+Bamboo Shoots,0.52,sayur
