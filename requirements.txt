@@ -1,5 +1,8 @@
 fastapi
 uvicorn
+sqlalchemy
+requests
+python-multipart
 paddleocr
 paddlepaddle
 sentence-transformers
@@ -7,4 +10,4 @@ torch
 opencv-python
 numpy
 pandas
-python-multipart
+python-jose
